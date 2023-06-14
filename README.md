@@ -15,4 +15,5 @@ Run the compiled C++ program: ./file_analyzer
 Alternatively, run the Ruby script directly: ruby file_analyzer.rb
 Follow the prompts to provide the directory path for analysis.
 Sit back and let the File Analyzer scan and analyze the files.
+
 The tool will generate a detailed report summarizing the analyzed information.
