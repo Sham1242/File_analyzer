@@ -7,7 +7,7 @@ File analysis: It leverages the strengths of C++ and Ruby to perform analysis fu
 User-friendly interface: The command-line interface built with Ruby provides a user-friendly experience, allowing easy interaction with the tool.
 Report generation: The tool generates comprehensive reports summarizing the analyzed information, enhancing data visibility and facilitating decision-making.
 Error handling: Both C++ and Ruby code have robust error handling mechanisms to ensure smooth execution and handle unexpected scenarios.
-Usage
+> Usage
 * Ensure you have C++ and Ruby installed on your system.
 * Clone the project repository: git clone https://github.com/your-username/file-analyzer.git
 * Compile the C++ code: g++ file_analyzer.cpp -o file_analyzer
